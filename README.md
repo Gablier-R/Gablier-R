@@ -1,6 +1,4 @@
 
-<div style=" background-color: magenta;">
-
 # Hey there? I'm Gabriel Rodrigues
 
 ## About me
@@ -9,12 +7,20 @@
 
 <br>
 
-<div style="display:flex; justify-content:space-between;">
+## Technologies I use, and study
+
+<br>
+
+<div style=" display:flex; justify-content:space-between; ; margin-right:8rem">
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gablier-R)](https://github.com/anuraghazra/github-readme-stats)
 
-## Technologies I use, and study
+
 <br>
+
+<div >
 
 ### Editor:   <img align="center" alt="Gabriel-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
@@ -35,10 +41,10 @@
 <br> 
 
 ### Others: <img align="center" alt="Gabriel-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img align="center" alt="Gabriel-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+
+</div>
  
 </div>
 
 
-
-</div>
   
