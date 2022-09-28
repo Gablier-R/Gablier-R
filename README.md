@@ -12,7 +12,7 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gablier-R&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gablier-R&layout=compact)](https://github.com/Gablier-R/github-readme-stats)
 
 
 
