@@ -1,19 +1,11 @@
-
-# Hey there? I'm Gabriel Rodrigues
-
-## About me
-
-### I'm a technology student, delving into the world of programming, to challenge problems and propose solutions
+👋 Hi, I'm @gablierrodrigues
+🌱 I am currently gaining experience in a startup of what it really is to be a developer
+📚 I am a computer technician and am currently studying for a bachelor's degree in information systems.
+📫 How to get to me: Email: gabrielrodrigues1927@ gmail.com | Number: +55 (62) 9 9919-1767
 
 <br>
-
-## Technologies I use, and study
-
+ Technologies I use, and study
 <br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gablier-R&layout=compact)](https://github.com/Gablier-R/github-readme-stats)
-
 
 
 
