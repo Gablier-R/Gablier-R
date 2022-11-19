@@ -11,7 +11,7 @@
  Technologies 
 <br>
 
-<div style = "display: flex">
+<div style = "display: flex; margin: 10px;">
  
  
 <img align="center" alt="Gabriel-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
