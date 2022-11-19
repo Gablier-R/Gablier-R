@@ -1,13 +1,14 @@
-👋 Hi, I'm @gablierrodrigues
-<br>
-🌱 I am currently gaining experience in a startup of what it really is to be a developer
-<br>
-📚 I am a computer technician and am currently studying for a bachelor's degree in information systems.
-<br>
-📫 How to get to me: Email: gabrielrodrigues1927@ gmail.com | Number: +55 (62) 9 9919-1767
+
+
+<ol>
+<li>👋 Hi, I'm @gablierrodrigues</li>
+<li>🌱 I am currently gaining experience in a startup of what it really is to be a developer</li>
+<li>📚 I am a computer technician and am currently studying for a bachelor's degree in information systems.</li>
+<li>📫 How to get to me: Email: gabrielrodrigues1927@ gmail.com | Number: +55 (62) 9 9919-1767</li>
+</ol>
 
 <br>
- Technologies I use, and study
+ Technologies 
 <br>
 
 
