@@ -1,5 +1,5 @@
 
- <div style= "display: flex; margin-top: 29px;">
+
 
 <ul>
 <li>👋 Hi, I'm @gablierrodrigues</li>
@@ -12,16 +12,14 @@
  Technologies 
 <br>
  <br>
- <br>
- <br>
 
-
+ <div style= "display: flex; margin-top: 29px;">
 
  
 <img align="center" alt="Gabriel-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
 <img align="center" alt="Gabriel-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Gabriel-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Gabriel-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Gabriel-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 
-  </div>
+
 
 
 <br>
@@ -35,6 +33,6 @@
 <img align="center" alt="Gabriel-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
 
 
-
+  </div>
 
   
