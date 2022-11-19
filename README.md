@@ -11,21 +11,8 @@
  Technologies 
 <br>
 
-<div class="container">
-    <div class="row">
-        <div class="col-4">
-            Olá
-        </div>
-        <div class="col-4">
-            Olá de novo
-        </div>
-        <div class="col-4">
-            Blogson
-        </div>
-    </div>
-</div>
 
-<div style = "display: flex; margin: 10px;">
+
  
  
 <img align="center" alt="Gabriel-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
@@ -44,7 +31,6 @@
 <img align="center" alt="Gabriel-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
 
 
-<div/>
 
 
   
