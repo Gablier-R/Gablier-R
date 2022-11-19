@@ -11,6 +11,20 @@
  Technologies 
 <br>
 
+<div class="container">
+    <div class="row">
+        <div class="col-4">
+            Olá
+        </div>
+        <div class="col-4">
+            Olá de novo
+        </div>
+        <div class="col-4">
+            Blogson
+        </div>
+    </div>
+</div>
+
 <div style = "display: flex; margin: 10px;">
  
  
