@@ -10,7 +10,7 @@
 
  <br>
 
- #### Main stck
+ #### Main stack
 
  <div style= "display: flex; margin-top: 29px;">
   
