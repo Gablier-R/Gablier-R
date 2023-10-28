@@ -9,7 +9,7 @@
 </ul>
 
 <br>
-### Technologies 
+<h1>Technologies</h1>  
 <br>
  <br>
 
