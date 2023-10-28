@@ -8,9 +8,6 @@
 <li>📫 How to get to me: Email: gabrielrodrigues1927@ gmail.com | Number: +55 (62) 9 9919-1767</li>
 </ul>
 
-<br>
-<h1>Technologies</h1>  
-<br>
  <br>
 
  #### Main stck
