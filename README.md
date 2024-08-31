@@ -13,12 +13,12 @@
 <li>🚩 I did a 2+ work developing and maintaining robust back-end systems</li>
 
 <li>⚡ Bachelor of Information Systems && ⚡Information Technology Technician</li>
-
+</ul>
 📫 You can contact me through the following means:
 
 Email: gabrielrodrigues1927@gmail.com
 telephone: +55 (62) 9 9919-1767
-</ul>
+
 
  <br>
 
