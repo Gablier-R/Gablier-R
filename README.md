@@ -20,11 +20,8 @@
 <li> Email: gabrielrodrigues1927@gmail.com </li>
 <li> Telephone: +55 (62) 9 9919-1767 </li>
 </ul>
-
  <br>
-
  #### Main stack
-
 <div style= "display: flex; margin-top: 29px;">
   
 <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
