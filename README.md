@@ -17,8 +17,8 @@
 
 📫 You can contact me through the following means:
 <ul>
-Email: gabrielrodrigues1927@gmail.com
-telephone: +55 (62) 9 9919-1767
+<li> Email: gabrielrodrigues1927@gmail.com </li>
+<li> Telephone: +55 (62) 9 9919-1767 </li>
 </ul>
 
  <br>
