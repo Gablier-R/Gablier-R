@@ -8,7 +8,7 @@
 
 <ul>
  
-<li>📍 Alvorada do Norte, GO, Brazil. </li>
+<li>📍 São Paulo, SP, Brazil. </li>
 
 <li>🚩 I did a 2+ work developing and maintaining robust back-end systems</li>
 
